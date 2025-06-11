@@ -12,7 +12,7 @@ Discover how to build and deploy a Solana SPL Token ICO DApp with this hands-on 
 
 📦 Tech Stack:
 
-Frontend: Next.js
+
 Backend/Smart Contracts: Rust with Anchor Framework
 Blockchain: Solana
 Perfect for blockchain enthusiasts and developers looking to enhance their skills, this project showcases the full process of creating and deploying a Web3 DApp. Don't forget to like, comment, and subscribe for more Web3 development content!
