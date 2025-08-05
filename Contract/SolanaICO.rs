@@ -129,7 +129,7 @@ pub mod ico {
 
     /* 
     -----------------------------------------------------------
-        CreateIcoATA struct for create_ico_ata function
+        CreateIcoATA struct for create_ico_ata function  
     -----------------------------------------------------------
 */
     #[derive(Accounts)]
